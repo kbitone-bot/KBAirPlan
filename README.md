@@ -1,3 +1,8 @@
+프로토타입 예시화면
+<img width="1432" height="745" alt="image" src="https://github.com/user-attachments/assets/7c7fdcdf-b0fc-41a8-bd5a-5b7befd8289e" />
+<img width="1410" height="824" alt="image" src="https://github.com/user-attachments/assets/3e9b42f8-236d-44f5-8d2a-23d1a00f644c" />
+
+
 # ✈️ 비행계획 자동생성 시스템 (Flight Plan Auto-Generator)
 
 > 해군 항공대 비행계획 초안 자동 생성 및 편집 시스템 프로토타입
